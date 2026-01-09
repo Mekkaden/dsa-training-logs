@@ -7,6 +7,7 @@ A collection of LeetCode questions to learn DSA! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mekkaden/dsa-training-logs/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekkaden/dsa-training-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,5 @@ A collection of LeetCode questions to learn DSA! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mekkaden/dsa-training-logs/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekkaden/dsa-training-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
