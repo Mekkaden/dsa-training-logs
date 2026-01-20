@@ -6,6 +6,7 @@ A collection of LeetCode questions to learn DSA! - Created using [LeetHub v2](ht
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Mekkaden/dsa-training-logs/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Mekkaden/dsa-training-logs/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mekkaden/dsa-training-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mekkaden/dsa-training-logs/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to learn DSA! - Created using [LeetHub v2](ht
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Mekkaden/dsa-training-logs/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mekkaden/dsa-training-logs/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
